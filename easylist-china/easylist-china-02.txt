@@ -1,0 +1,1200 @@
+##.f-sign-cont[data-dysign-adid]
+##.fed-part-case > .ads-img
+##.feed-item[data-ad]
+##.ff-ads
+##.flex-row > #propagandaLeft
+##.flex-row > #propagandaRight
+##.float-adv-left-bottom
+##.float-adv-left-top
+##.float-adv-right-bottom
+##.float-adv-right-top
+##.floatAd
+##.float_bot_right
+##.fnwehjnc12
+##.frAd
+##.frontpageAdvM
+##.full-ads
+##.full.banners12
+##.g1_wz > .g1_tp
+##.getads
+##.gg-box
+##.gg-one
+##.gg1000
+##.gg430
+##.gg_300
+##.gg_728
+##.gg_950
+##.gg_960
+##.gg_canvas
+##.gg_full
+##.gg_pc
+##.gg_tp
+##.ggad
+~95504.net##.ggbox
+##.gggpost-above
+##.ggpost-below
+##.ggtop
+##.ggw
+##.global_video_bottom_dbtc
+##.google-ad2_fixed
+##.google_adsense2
+##.gpost-below
+##.gpt_ads_box
+##.gpt_ads_title
+##.guanggaoBox
+##.guruin-ads
+##.hao123-unionad-pic
+##.hbp > .wp_banner
+##.headxx11xiaoapp
+##.heg > .div-list
+##.his-sign-cont[data-dysign-adid]
+##.hlol_ad
+##.hongbao_hd
+##.hzxld
+##.iHead960x90
+##.ibtad
+##.imgBox > div[class^="ad"]
+##.index-top-aassd
+##.index-top-ad
+##.index-top-gg
+##.index-wz-ad
+##.index_alert_gg
+##.indexad2
+##.indexad3
+##.indexad4
+##.indexnews-ad
+##.inner-advertise
+##.inset-sty > .banner.el-carousel
+##.itopbar + .container
+##.jav-nav + .bcpic
+##.jingqun_tu
+##.jq_infoflow_ad_wrap
+##.jq_mediav_ad_report
+##.jqrp_infoflow_ad
+##.js-cui-pt-item[data-qhb]
+##.jsv > .mobile-adv
+##.ka-flo
+##.kjk-flo
+##.ksads
+##.kuandu > .bottommob
+##.leftadv
+##.leftd + .rightd
+##.leo-container .ssr1
+##.link > .image[src*=".qhimg.com/"]
+##.listok > a > img[src*=".alicdn.com"][width="980"][height="80"]
+##.listok > a > img[style^="width:980px;height:"]
+##.loc-home-top-adv-new
+##.lol-ad
+##.lol_ad
+##.lyzm-prevent
+##.m1938-container
+~dongman8.com##.m_acmsd
+##.m_hot_rec_box_base[id^="right"]
+##.main-ad-l
+##.main-ad-r
+##.main-ad-r + .topad
+##.main-content > .a2b3
+##.main[style="border:#7D8C8E solid 1px;height: 23px;"]
+##.mainbg > #s11navtop
+##.maomi-content > #main-container > .row.mob40 + .row
+##.maomi-content > .section-banner
+##.maomi-content > .section-menu > .row > a[target="_blank"]
+##.maomi-content > a[target="_blank"]
+##.mbads
+##.mediav-newsfeed-listitem-type-1
+##.mediavAd_report
+##.mediavfeed-newsitem
+##.menutab_ad
+##.ml_ad1
+##.ml_ad3
+##.ml_ad5
+##.mlad
+##.mobadsq
+##.mod + #bottomBox
+##.module-adslist
+##.module-adslists
+##.my-cat.my-cat-header
+##.mylist + #topthree
+##.mylist > a > img[width^="9"][height="80"]
+##.myui-extra + .noticetext
+##.nQIAj
+##.nQIAj1
+##.nav-area + .wrapper .tuiguang
+##.newstyle > .container > a[target="_blank"]
+##.newstyle > a > img[src*="img.com/i/"]
+##.no-mobile[style="position: fixed;right:0px;bottom: 0px;"]
+##.opt > a[target="_blank"] > img[src*=".360buyimg.com"]
+##.orbui-post
+##.overBanner.dowloadBtn
+##.page-wwads
+##.pagead_3
+##.pagecon + .ad1
+##.partialViewSlider-outerwrapper
+##.pasuAD
+~dongman8.com##.pc_acmsd
+##.pcd_ad
+##.pcgg
+##.photo-two > a[onclick^="_czc."]
+##.player + .sponsor
+##.player-bottom-gg
+##.player-info > .recommend-two.recommend-list
+##.player-news > .news-list
+##.player-rm > a[href*="/ad.html?url="]
+##.player-rm > a[target="_blank"]
+##.player-rm-float
+##.player_ggw
+##.playtop.col-pd
+##.plc > .a_p
+##.pop[style="right: 10px;"]
+##.popup + .shortcuts-m-overlay
+##.post-title + .metadata + .entry > div > div > a[href^="/"][href$="/"] > img
+##.postmessage > #googleFirst
+##.postmessage > #googleSecond
+##.privilege-promote
+##.propa_bottom
+##.pure-g[onclick*="float"]
+##.qpdb + a[href]
+##.qzdhf
+##.qzhfaaa
+##.readmidad
+##.right > .content > .ads
+##.room-ad-bottom
+##.room-ad-top
+##.room-ad-video-down
+##.rotate-adv
+##.row > .gao-bg
+##.rtcenter_game
+##.samBannerUnit
+##.scupioadslot
+##.self-gg
+##.slider-ad[adid]
+##.space-y-6 > .advertising
+##.spon-img[src*=".alicdn."]
+##.spot_nav_under_ad
+##.static-a2d
+##.stui-vodlist__thumb.lazyload[href^="http"][target="_blank"]
+##.stui-vodlist__thumb.lazyload[href^="http"][target="_blank"] + .stui-vodlist__detail
+##.subject_link[href$="/thread-index-fid-1-tid-12848.htm"]
+##.svg-icon + #player_pause
+##.sxAdBox
+##.t5[style="border:1px solid #a6cbe7;"] + .t[style="margin-top:8px"]
+##.tab-content + .col-pd
+##.textadlist
+##.theme_custom_slidebox-ad-below
+##.title > .gg
+##.tmall_ad_container
+##.tmall_bg15
+##.tooltip > #tp
+##.top > a > .topline[src^="/photo/"]
+##.top-gg
+##.top-read-ad
+##.topSponsor
+##.top_ad_ban
+##.top_box > #foot
+##.top_box > #indextop
+##.top_box > #news
+##.top_box > li > a[href^="/js/app.htm?"]
+##.top_func_ad
+##.topbanner + .nav + .banner
+##.toy52_outer
+##.toy52apparel_ALL
+##.trad3
+##.twavt-ads
+##.txp_ad[data-role="txpad-interact-pause"]
+##.txtguanggao
+##.uk-width-1-1.adbox
+##.video-holder > a[target="_blank"] > img[src*=".360buyimg.com"]
+##.video-info-aux + div[style^="border-radius: 5px;"]
+##.video-item-ads
+##.video_details > .banner
+##.w100b > .m_adv
+##.wbalist_thumb[style*="/upload/site/"]
+##.wemziguanggao
+##.wf_ad_block
+##.widget-qianhuiji
+##.widget-topadding
+##.widget-xlxba
+##.widget_adbox
+~hrtsea.com##.widget_ui_ads
+##.widget_ui_asb
+##.widget_ui_aub
+##.widget_ui_textasb
+##.widget_ui_textaub
+##.wordurl[style="   width: 42%; float:left; text-align: center;"]
+##.wp > .ad-box
+##.wp.a2_h
+##.wp.a_f
+##.wp.a_h
+~aircn.org,~steamcn.com,~x3cn.com##.wp.a_t
+##.wp_headline + .ad1
+##.wpcom_ad_wrap
+##.wrap.mt10.clearfix > .box.top_box
+##.wrapper > a[target="_blank"] > .ads
+##.wumii-bottom-popup
+##.wumii-widget-ad
+##.wwads
+##.wwads-cn
+##.wzad
+##.xstui-content__acc
+##.xzbox-gh
+##.y.mtw[style="padding: 0px 10px;"]
+##.zhanzhang_tuijian_btn
+##.zhedangceng_ggg
+##.zone_wap_banner2
+##A[href*=".com/?Agent="]
+##A[href="http://t.cn/A6hQCVsv"]
+~taobao.com,~tmall.com##A[href="https://s.click.taobao.com/cTAwFvu"]
+##A[href^="/e/public/ClickAd?adid="]
+~sinaimg.cn##a > img[src*=".sinaimg."][src$=".gif"][style*="width:960"]
+~alicdn.com##a > img[width="960"][src*=".alicdn.com/"]
+~sinaimg.cn##a > img[width="960"][src*=".sinaimg."]
+~sinaimg.cn##a > img[width="980"][src*=".sinaimg."]
+##a#wrapper_left_bg[target="_blank"]
+##a#wrapper_right_bg[target="_blank"]
+##a.ad_links
+##a.hengfu > img.hengfu
+##a[href$=".cc:8443"]
+##a[href$=".php"] > img[src*=".bcebos.com"]
+##a[href$=".xyz:8443"]
+##a[href*=".bright.cn/?utm_"]
+##a[href*=".com/?Extend="]
+##a[href*=".com/Register.aspx?aid="]
+##a[href*=".com/Register/?a="]
+##a[href*=".com?aff="]
+##a[href*=".com?intr="]
+~shenguangai.com##a[href*=".shenguangai.com/"]
+##a[href*=".taobao.com"] > .top1
+~umeng.com##a[href*=".umeng.com"]:not([href="http://www.umeng.com/"]) > img
+##a[href*=".xyz:"] > img[src*=".qlogo.cn"]
+##a[href*="/23.224.188."]
+##a[href*="/?INTR="]
+##a[href*="/?Intr="]
+##a[href*="/?aff="][target="_blank"]
+##a[href*="/?intr="]
+##a[href*="/PageRegister?Agent="][target="_blank"]
+##a[href*="/Register?a="]
+##a[href*="/ads/adscenter."]
+##a[href*="/auth/register?code="] > img
+##a[href*="/register/?i_code="] > img
+##a[href*="://2"] > img[src*=".qlogo.cn"]
+##a[href*="://4"][href*="/vod."]
+##a[href*=":10443/"] > img[src$="gif"]
+##a[href*=":7888/?register="]
+##a[href*=":8701/?register="]
+##a[href*="?channelCode="] > img[src*=".com"]
+##a[href*="?channelCode="] > img[src*=".xyz"]
+##a[href*="?invite_code="] > img[src*=".com"]
+##a[href*="?register="] > img[src*=".douyinpic.com"]
+##a[href*="?register="] > img[width="100%"]
+##a[href*="kdocs.cn"] > img[src*=".ax1x.com/"]
+##a[href*="kdocs.cn"] > img[src*="sstv."]
+##a[href="/bbs/"] > img[src*=".bcebos.com"]
+##a[href="/e/member/register/index.php?tobind=0&groupid=1"]
+##a[href="/forum/"] > img[src*=".bcebos.com"]
+##a[href="/gghtml/tyc.html"]
+##a[href="/goto.php?url=hth"]
+##a[href="/ht.html"]
+##a[href="/lht.html"]
+##a[href="/vod/detail/id/118265.html"]
+##a[href="javascript:GoGd();"]
+##a[href="javascript:GoTp();"]
+##a[href="javascript:window.GoTp();"]
+##a[href^="/ad/"] > img[id][src*="hdslb.com"]
+##a[href^="/hy-"][ontouchstart]
+##a[href^="/template/1/html/ad/"]
+##a[href^="http"] > img[src*="pic.rmb.bdstatic.com/"][src$=".gif"]
+##a[href^="http://ad.moemoe."]
+##a[href^="javascript:GoDb"]
+##a[href^="javascript:gl012"]
+##a[href^="javascript:gl012"] + img
+##a[id][href*="/?aff="]
+##a[id][href*="/?register="]
+##a[id][target="_blank"] > img[src*="help-ol.bj.bcebos.com"]
+##a[onclick*="open"] > img[src*=".dailygn.com/"]
+##a[onclick^="_czc."] > .add
+##a[onclick^="_czc."] > .ads
+##a[onclick^="_czc.push(['_trackEvent', '广告"]
+##a[onclick^="javascript:pc_"] > img[src*=".alicdn.com"]
+##a[target="_bank"] > img[src*=".360buyimg.com"][style="width:100%;height:auto;"]
+##a[target="_blank"] > img.king
+##a[target="_blank"] > img[src*=".bitautoimg.com/"][src$=".gif"]
+##a[target="_blank"] > img[src*=".ikstatic.cn"][style="width:100%;height:100%"]
+~mgtv.com##a[target="_blank"] > img[src*="hitv.com"]
+##a[target="_blank"][onclick*="广告点击"]
+##body .has-ad
+##body[onload*="u()"] > #x
+##center > a[target="_blank"] > img[style="padding- bottom:5px;width:960px;height:120px;"]
+##center > a[target="_blank"] > img[style="padding- bottom:5px;width:960px;height:60px;"]
+##div#ad_id
+##div#xinxi
+##div[bannerlist]
+~ix8.la##div[class^="ADTOPLB_"]
+##div[class^="is_"] > a > img[referrerpolicy="no-referrer"]
+##div[class^="ps_"][value="20"]
+##div[id^="a"] > a[target="_blank"][style="margin-top:3px;"]
+##div[id^="a-loading-"] > span
+##div[id^="ad_thread"]
+##div[id^="adv-"].adv
+##div[id^="em"] > a[onclick^="em"][max-width]
+##div[id^="photo-header-title-content-text-dall"]
+##div[onclick*=".open"][onclick*="leyu"]
+##div[onclick*="/ky"][onclick*="open"]
+##div[onclick*="?i_code="]
+##div[role="listitem"] > div > div > .bannerliststyle
+##div[style="position: fixed;top: 60px;right:0;z-index:999;width:250px"]
+##div[style^="position"][onclick^="window.open"]
+##dl#listwoBox
+##img#adv1
+##img[data-link][data-src*="/u/"]:not([data-link*="/i/"])
+##img[data-src*=".alicdn.com/img/ibank/"][src="/static/images/loadingerror.gif"]
+##img[onclick*=".qq.com/doc/"]
+##img[onclick*="/statics/js/"]
+##img[onclick="window.open(this.url)"][src*="qq.com"]
+##img[onclick^="window.open"][src*=".360buyimg.com"]
+##img[onclick^="window.open"][src*="pc.qq.com"]
+##img[src$=".gif"][style="width:100%;max-width: 960px;height:45px;margin-bottom:2px;"]
+##img[src$="/img/tianbo.gif"]
+##img[src*=".c-ctrip.com"][style="width:100%;height:70px;"]
+##img[src*=".jd.com"][style="width:100%;height:70px;"]
+##img[src*=".meituan.net"][style="width:100%;height:70px;"]
+##img[src*=".qpic.cn"][width="980"][height="80"]
+##img[src*=".sinaimg."][style="width:1025px;height:80px"]
+##img[src*=".sinaimg."][style="width:150px;height:300px"]
+##script + #coupletBox
+##script + #rbbox
+##script + a[href] > img[src*="lbsugc.cdn.bcebos.com"]
+##script + a[href^="https://l.hyenadata.com/"]
+##script + a[target="_bank"] > img[src*=".c-ctrip.com"][style="width:100%;height:auto;"]
+##script + div[id^="a-loading-"]
+##script[src="/js/sy2.js"] + div[align="center"]
+##script[src="/template/kuhei2/skin/base.js"] + #couplet
+##span[title="neteasefooter"]
+##style + .a-loading
+##style + .need_grid_img
+##style + .vdgdo
+##table[style="border:#7D8C8E solid 1px;height: 30px;text-align: center;"]
+##ul[style="margin: 0px; padding: 0px; font-size: 0px; display: flex;"]
+!----------------------------------Ads-Union----------------------------------!
+/://666(7|8)[0-9]{2}.xyz\//$image,third-party
+/\.(cc|com|top|xyz)\/i\/v$/$third-party,xmlhttprequest
+/\.(com|cn|top|xyz)\/(j|K)\/[0-9]{6}$/$script,third-party
+/\.(cyou|ink)\/[a-z]{4}_[0-9]{5}_[a-z]{5}js\?/$script,third-party
+||103.71.154.76^
+||118.107.47.88^
+||121.204.246.*.gif
+||143.92.60.44^
+||154.212.147.231^
+||154.22.214.2^
+||154.7.80.158^
+||194.59.220.161^
+||23.234.217.11^
+||23.234.217.12^
+!
+##a[href*=".f2ocoin.com/"]
+##a[href*=".pcjx365.com/"]
+##a[href*="/9966699.vip"]
+##a[href*="/mug749.vip"]
+||1379a.xyz^
+||1u5gy.xyz^
+||3400.org^
+||52kuwang.cn^
+||a8age.com^
+||abrnfctkn.xyz^
+||allcp.xyz^
+||amerzbj.cn^
+||baiduisjkbvsjkl.com^
+||baiduvjsbvjknlsvsv.com^
+||baitaiz.com^
+||bbges.xyz^
+||bdates.fun^
+||berylnbb.com^
+||betcss.site^
+||bgdizsay.icu^
+||bifyeldv.top^
+||bkhblj.xyz^
+||boewgph.icu^
+||btescs.fun^
+||btsvad8.com^
+||bttazsyk.icu^
+||caider.fun^
+||ccnim.xyz^
+||chiese.site^
+||ciadre.fun^
+||cix0wk.com^
+||connectreadoasis.com^
+||csedasdme.xyz^
+||cuioxbqi.com^
+||cyq3noz.icu^
+||dadbj.cn^
+||dadde.cn^
+||dafdf.cn^
+||dalld.xyz^
+||dd778899dd.com^
+||ddush.xyz^
+||dhjrvj.xyz^
+||dhkipdsc.xyz^
+||dojyiu8.com^
+||donchen501.cn^
+||dosre12.xyz^
+||dstbekdf.xyz^
+||dstbunkfw.xyz^
+||duoying.vip^$third-party
+||dyeperd.icu^
+||eghyahl.cn^
+||epoid.xyz^
+||erfskhnpter.xyz^
+||ertgbme.com^
+||esgher.fun^
+||esgher.site^
+||euitx.cn^
+||evidhjksdtgyxrh.xyz^
+||ewfsef.com^
+||eyq3nog.icu^
+||falsarywaybung.com^
+||fddxbn.xyz^
+||fhglcpf.icu^
+||fjsytjs.cn^
+||fjtroip.cn^
+||fuliwang.cc^
+||fwzvlp.xyz^
+||gkjmev3.com^
+||glhdan.site^
+||gw1jvhs.com^
+||gyq3bew.icu^
+||hanwdsii.com^
+||hdpdrandpd.xyz^
+||hfqdipw.cn^
+||hgf8hck.com^
+||hikykhz.icu^
+||hkkeafj.cn^
+||hlnr9q.icu^
+||hohmaryt.com^
+||hpvwdkn.cn^
+||hsadeg.site^
+||hstbrt.xyz^
+||huoju.asia^
+||hypwbv.xyz^
+||hzhabei.cn^
+||ipadf.xyz^
+||iplm.cc^
+||jdcnwd.com^
+||jh16csf.com^
+||jhlazsot.icu^
+||jhzfwl.cn^
+||jokerlulm.com^
+||jpqed.xyz^
+||jrmrijv.icu^
+||jszavs1.com^
+||jujcjz.xyz^
+||jutwzssh.icu^
+||kahgjjd.com^
+||kgeesh.site^
+||kl91ccp.com^
+||kxm1b0u.com^
+||kyq3hky.icu^
+||kyq3xch.icu^
+||laink.xyz^
+||lamkghx.icu^
+||lanver.fun^
+||lgohse.fun^
+||lifyeldl.top^
+||lwide.xyz^
+||metaversemolecule.com^
+||mifyeldx.top^
+||misapopait.com^
+||mlstx.cn^
+||moobtcnse.xyz^
+||ngbthf.xyz^
+||nieae.xyz^
+||nifyeldc.top^
+||njogejt.icu^
+||nnfyxd.xyz^
+||nqdufv.xyz^
+||nryqr.cn^
+||oifyeldk.top^
+||one6u.xyz^
+||oopej.xyz^
+||owlinggnomist.com^
+||pcvzpj.xyz^
+||pirxzl.xyz^
+||plbs9k.icu^
+||pmxalz.xyz^
+||powedw.com^
+||pr88vhg.com^
+||pstvvb.xyz^
+||qezpjlp.cn^
+||qhx1h2g.com^
+||qifyeldy.top^
+||qqnde.xyz^
+||qselic.top^
+||rabuagc.cn^
+||rdufuxr.icu^
+||relafp.xyz^
+||ronbbf.xyz^
+||rtumdhdk.xyz^
+||rtumwzp.icu^
+||sa8zdui.com^
+||sfg11rr.com^
+||soushubah.com^$third-party
+||sq59.cn^
+||ssjuxsc.cn^
+||tgbevv.xyz^
+||tifyeldi.top^
+||tmwbszn.icu^
+||tqdctl.xyz^
+||uejdsw.com^
+||ulojlvmejkaem.xyz^
+||uyq3ruf.icu^
+||v1gyb.xyz^
+||vnfsbl.xyz^
+||vvwuqxp.icu^
+||vxhtxt.xyz^
+||wubizigeng.com^
+||wuye3d.com^
+||wyq3rum.icu^
+||xccadc.com^
+||xcvwrj.xyz^
+||xeghes.fun^
+||xiaoxiuapp.com^
+||xjzyhp.xyz^
+||xmxupz.xyz^
+||xpcwrgy.cn^
+||xtbzff.xyz^
+||xukou.net^
+||yh18h8s.com^
+||ymhyw6.lol^
+||yuifgh.fun^
+||zcvyzsyd.icu^
+||zerolcp.cn^
+||zexfzson.icu^
+||zfcdirf.icu^
+||zfteiv.xyz^
+||zifyeldq.top^
+||vvdzucs.cn^
+||jjklrcw.com^
+||nxhwvt.xyz^
+||ghland.site^
+||enhad.xyz^
+||ntozchv.icu^
+||fwepd.xyz^
+||lrlsrz.xyz^
+||wddsva0.com^
+||rilwzsit.icu^
+||wnzle.com^
+||52acc.cn^
+||ziravd.xyz^
+||zonyff.xyz^
+||zypzzv.xyz^
+!
+##a[href$="/1c626.com"]
+##a[href$="/77adc.com"]
+##a[href$="/aa8a1j.com"]
+##a[href$="/ky6y.com"]
+##a[href$="/liyusheng.com"]
+##a[href$="/lm2p2.com"]
+##a[href$="/lm39h.com"]
+##a[href$="/lm8fj.com"]
+##a[href$="/tv826.com"]
+##a[href$="/xhg23.com"]
+##a[href$="ky9402.com"]
+##a[href*=".05bq.com/"]
+##a[href*=".08an.com/"]
+##a[href*=".123ch.cn"]
+##a[href*=".1956hl.com/"]
+##a[href*=".3366722.com"]
+##a[href*=".5599722.com"]
+##a[href*=".613639.com/"]
+##a[href*=".7wkw.com"]
+##a[href*=".832103.top"]
+##a[href*=".832112.top"]
+##a[href*=".8720018.cc"]
+##a[href*=".aff007.pro"]
+##a[href*=".aiyou305.com/"]
+##a[href*=".app003.biz"]
+##a[href*=".app003.cc"]
+##a[href*=".apple1818.net"]
+##a[href*=".ax10a.com/"]
+##a[href*=".bd379.vip"]
+##a[href*=".beiren.cc"]
+##a[href*=".bet365.gdn"]
+##a[href*=".bet927.bet"]
+##a[href*=".blueyoko.com/"]
+##a[href*=".btwuji.cc"]
+##a[href*=".bucd.icu"]
+##a[href*=".bucd.top"]
+##a[href*=".buscandolaidea.com/"]
+##a[href*=".caohang.com.cn/"]
+##a[href*=".cgn8j9f4j3g.com:"]
+##a[href*=".covasco.com/"]
+##a[href*=".cvezsacxz.com/"]
+##a[href*=".dbrows.com/"]
+##a[href*=".dearcabbage.top"]
+##a[href*=".demobbe.com/"]
+##a[href*=".downok.com"]
+##a[href*=".dpcpfw.com/"]
+##a[href*=".ds001qd3.cc"]
+##a[href*=".dztjy.com/"]
+##a[href*=".eampakt.com/"]
+~etao1.com##a[href*=".etao1.com/"]
+##a[href*=".etechedge.com/"]
+##a[href*=".ex068.com"]
+##a[href*=".fllkf.com/"]
+##a[href*=".gghktv.com/"]
+##a[href*=".glolhw.com/"]
+##a[href*=".gnn8lgui.com/"]
+##a[href*=".greatnff.com/"]
+##a[href*=".gsxzq.com/"]
+##a[href*=".gzwtgm.com/"]
+##a[href*=".hgty127.bet"]
+##a[href*=".hgty411.bet"]
+##a[href*=".hhjs20.com"]
+##a[href*=".hndazhan.com/"]
+##a[href*=".hth379.com/"]
+##a[href*=".hth399.com"]
+##a[href*=".hth401.com"]
+##a[href*=".hth402.com"]
+##a[href*=".hthbet34.com"]
+##a[href*=".hthbet35.com"]
+##a[href*=".hthbet49.com"]
+##a[href*=".hthty24.app"]
+##a[href*=".hthty25.app"]
+##a[href*=".hthty26.app"]
+##a[href*=".hthty27.app"]
+##a[href*=".hthvip20.com"]
+##a[href*=".hthvip22.com"]
+##a[href*=".hthvip23.com"]
+##a[href*=".hthvip34.com"]
+##a[href*=".hthvip36.com"]
+##a[href*=".htvip24.app"]
+##a[href*=".htvip27.app"]
+##a[href*=".hxsp331.com"]
+##a[href*=".icekingshop.com/"]
+##a[href*=".impactyu.com/"]
+##a[href*=".impreshunz.com/"]
+##a[href*=".jgg18.me"]
+##a[href*=".jingjiezhenkong.com/"]
+##a[href*=".jiq339.com/"]
+##a[href*=".kefuyuming.vip"]
+##a[href*=".las88889999.com:"]
+##a[href*=".meta-hh.com/"]
+##a[href*=".meta-jt.com/"]
+##a[href*=".meta-kp.com/"]
+##a[href*=".meta-wg.com/"]
+##a[href*=".mmrjmh.com/"]
+##a[href*=".nffhome.com/"]
+##a[href*=".nfkonline.com/"]
+##a[href*=".nfqtech.com/"]
+##a[href*=".nfylife.com/"]
+##a[href*=".nktxv.com/"]
+##a[href*=".ohakaguide.com/"]
+##a[href*=".oidmwq2v.cn"]
+##a[href*=".onazs.com/"]
+##a[href*=".picoville.com/"]
+##a[href*=".qtj5.com/"]
+##a[href*=".quankan.tv"]
+##a[href*=".rookiego.com"]
+##a[href*=".rrrmrm.com/"]
+##a[href*=".saeilkorea.com/"]
+##a[href*=".sjzbqnxx.com/"]
+##a[href*=".sky1818.net"]
+##a[href*=".snmlyshj.com/"]
+##a[href*=".supernfp.com/"]
+##a[href*=".tdchat.in"]
+##a[href*=".thejierou.net"]
+##a[href*=".tholikiranam.com/"]
+##a[href*=".topnfb.com/"]
+##a[href*=".tv688.cc"]
+##a[href*=".tv699.cc"]
+##a[href*=".umtrack.com/"]
+##a[href*=".uqubsb.com/"]
+##a[href*=".urfatek.com/"]
+##a[href*=".uxfqh.com/"]
+~v2ny.org##a[href*=".v2ny.org"]
+##a[href*=".vldbd.com/"]
+##a[href*=".wenpie.com/"]
+##a[href*=".wjLkj.com/"]
+##a[href*=".xlgqy.com/"]
+##a[href*=".xmluodi.com/"]
+##a[href*=".xyanovo.com/"]
+##a[href*=".yabo414.com"]
+##a[href*=".yb2843.vip"]
+##a[href*=".ybvip5741.vip"]
+##a[href*=".ygx2.com/"]
+##a[href*=".youxi126.com"]
+##a[href*=".youxi141.com"]
+##a[href*=".youxi142.com"]
+##a[href*=".yyk2.com/"]
+##a[href*="/1124024.xyz"]
+##a[href*="/136ayx.vip"]
+##a[href*="/1560045.cc"]
+##a[href*="/1651n.com:"]
+##a[href*="/170hth.com/"]
+##a[href*="/171hth.com/"]
+##a[href*="/178heiliao.com/"]
+##a[href*="/182hth.com"]
+##a[href*="/2141t.com:"]
+##a[href*="/2486090.com/"]
+##a[href*="/265201.com:"]
+##a[href*="/296256.com:"]
+##a[href*="/2996m.com:"]
+##a[href*="/2e9c9aa9.com/"]
+##a[href*="/326519.com:"]
+##a[href*="/331.run"]
+##a[href*="/333663.xyz"]
+##a[href*="/33hth.cn"]
+##a[href*="/3400com-o15.com/"]
+##a[href*="/3970t.com:"]
+##a[href*="/3kmg.top"]
+##a[href*="/445.ee/"]
+##a[href*="/51236.cc"]
+##a[href*="/55915v.com:"]
+##a[href*="/595tz483.cc"]
+##a[href*="/7267224.com/"]
+##a[href*="/7699j.com:"]
+##a[href*="/7727ky.com:"]
+##a[href*="/7756ky.com:"]
+##a[href*="/7757ky.com:"]
+##a[href*="/7763349.com/"]
+##a[href*="/832106.top"]
+##a[href*="/84992020.xyz"]
+##a[href*="/84992323.xyz"]
+##a[href*="/9716t.com"]
+##a[href*="/979155.com"]
+##a[href*="/b6314.com:"]
+##a[href*="/bgm9z.com"]
+##a[href*="/bli2a.com/"]
+##a[href*="/bucd.icu"]
+##a[href*="/bucd.top"]
+##a[href*="/ck345.cc"]
+##a[href*="/cslpldyc.me"]
+##a[href*="/ctyitopo17.com"]
+##a[href*="/d27.tv"]
+##a[href*="/d6586.com:"]
+##a[href*="/ddtz5.com"]
+##a[href*="/ftyvrfy05.com"]
+##a[href*="/g3656.com:"]
+##a[href*="/h91.tv"]
+##a[href*="/hhybd.wiki"]
+##a[href*="/htbet1536.com"]
+##a[href*="/hth104.com/"]
+##a[href*="/hth107.com/"]
+##a[href*="/hth377.com/"]
+##a[href*="/hth907.com"]
+##a[href*="/hth908.com"]
+##a[href*="/hthty21.app"]
+##a[href*="/htvip21.app"]
+##a[href*="/hxzfcz.com/"]
+##a[href*="/ihezu.run"]
+##a[href*="/jdr29jlir.com"]
+##a[href*="/k023055.com"]
+##a[href*="/k849.top"]
+##a[href*="/kk5377.com:"]
+##a[href*="/kk9915.com:"]
+##a[href*="/kt169.com"]
+##a[href*="/ky0001.vip"]
+##a[href*="/ky010.vip"]
+##a[href*="/ky0666.cn"]
+##a[href*="/ky0777.cn"]
+##a[href*="/ky1010.cn"]
+##a[href*="/ky53362.com"]
+##a[href*="/ky55004.com"]
+##a[href*="/ky9897.cn"]
+##a[href*="/kyky199.com"]
+##a[href*="/l1y9.com"]
+##a[href*="/l76fh.com"]
+##a[href*="/leyu178.ee"]
+##a[href*="/lm01c.com"]
+##a[href*="/lm63m.vip"]
+##a[href*="/mx456.cc"]
+##a[href*="/nb66nb.cc"]
+##a[href*="/ppffj.me/"]
+##a[href*="/sm003r.tv"]
+##a[href*="/sm010k.xyz"]
+##a[href*="/sm033v.tv"]
+##a[href*="/sm27z.net"]
+##a[href*="/smch7.com"]
+##a[href*="/st66st.cc"]
+##a[href*="/t4078.com:"]
+##a[href*="/t4741.com"]
+##a[href*="/tg.602.com/"]
+##a[href*="/tv668.cc"]
+##a[href*="/tv688.cc"]
+##a[href*="/ty523.com/"]
+##a[href*="/uu5566.cn.com/"]
+##a[href*="/v9038.com:"]
+##a[href*="/wns8499608.xyz"]
+##a[href*="/x5092.com"]
+##a[href*="/x5123.cc"]
+##a[href*="/x7458.cc"]
+##a[href*="/x7673.cc"]
+##a[href*="/x8345.cc"]
+##a[href*="/x9658.cc"]
+##a[href*="/xapps5.xyz"]
+##a[href*="/xchina.info/redirect/ad"]
+##a[href*="/yb6277.vip"]
+##a[href*="/ybhth689.com"]
+##a[href*="/yigeyuming3880.top"]
+##a[href*="nnqp.vip"]
+##a[href="http://hqbet2191.com"]
+##a[href="https://www.ledlandi.com"]
+##a[href="https://www.ybvip1879.vip"]
+##a[href="https://xq97.com"]
+##a[href^="http://go.gotourl.xyz/"]
+~upupoo.com##a[href^="http://www.upupoo.com"]
+##a[onclick*=".lyty665.com"]
+##a[style*=".e-years.net/"]
+##a[style*=".misigl.com/"]
+##div[onclick*=".8tse9.com"]
+##div[onclick*=".lyty49.com"]
+##div[onclick*=".rwnyou.com"]
+##div[onclick*="/ky0777.cn"]
+##div[onclick*="bdtz5.com"]
+##div[onclick*="kiropa.com"]
+##div[onclick*="ky01003.com"]
+##div[onclick*="ky0222.cn"]
+##div[onclick*="ky165.cn"]
+##div[onclick*="ky55003.com"]
+##img[onclick*=".aiyou305.com/"]
+##img[onclick*=".gghktv.com/"]
+##img[onclick*=".hth390.com"]
+##img[onclick*="/2e9c9aa9.com"]
+##img[onclick*="/3kmg.top"]
+##img[onclick*="/60hthty.vip"]
+##img[onclick*="/789htbet.vip"]
+##img[onclick*="/c7.net/"]
+||001adafg.xyz^
+||002777.xyz^
+||003aldjads.xyz^
+||004fsdljasd.xyz^
+||012.tw^$third-party
+||01fen.com^
+||01v62.xyz^
+||0272aa.com^
+||0272bb.com^
+||0272dd.com^
+||027dir.com^
+||02asdf.com^
+||033.com^$third-party
+||033dfgh.com^
+||035caop.com^
+||045zxnm.com^
+||046zxnm.com^
+||049uing.com^
+||04jhgyt.com^
+||053h94.com^
+||053tyfg.com^
+||056opui.com^
+||058tyfg.com^
+||064ioio.com^
+||065yuyu.com^
+||06fgej.com^
+||076lvo.xyz^
+||0776.red^
+||0798ls.com^
+||07xm.fun^
+||08088.top^
+||085cczz.com^
+||0885.net^$third-party
+||08u6q.com^
+||096iokj.com^
+||0f4l.xyz^
+||0ftyz.top^
+||0hlc8.top^
+||0krdn3.com^
+||0l9x.cn^
+||0p7w.cn^
+||0r17374.com^
+||0s6s0.top^
+||0smg.top^
+||0vkkf.cn^
+||1000dy.com^
+||1002.men^
+||10090dfs.com^
+||100ytrf.com^
+||103.21.91.144^
+||104.197.140.120^
+||104.198.198.188^
+||104.203.214.3^
+||104.203.72.254^
+||104.233.177.93^
+||107.148.199.181^
+||107.165.206.26^
+||107.183.137.18^
+||107.187.122.172^
+||109218er.xyz^
+||1104piaoba2022.xyz^
+||1106yh.com^
+||1108jiuba2022.xyz^
+||11111.host^
+||1118cctv.ltd^
+||1129555.com^
+||1133.cc^$third-party
+||1134555.com^
+||1136999.com^
+||1138555.com^
+||1158555.com^
+||1158tp.com^
+||1170555.com^
+||118114.cn^$third-party
+||1188.com^$third-party
+||119.29.207.87^
+||1190555.com^
+||1201555.com^
+||1202liutiao.xyz^
+||1203555.com^
+||1205qitiao2022.xyz^
+||121.40.25.88^
+||122.114.239.160^
+||123hala.com^
+||1258999.com^
+||1338999.com^
+||134.73.54.252^
+||136.0.56.196^
+||1368999.com^
+||137.175.69.92^
+||1381a.xyz^
+||1383a.xyz^
+||1385a.xyz^
+||13niao20230422.live^
+||142.0.129.74^
+||146.148.85.61^
+||14fa20230523.live^
+||150075.com^
+||1512a.com^
+||154.196.143.171^
+||156.232.37.2^
+||156.246.162.2^
+||163.197.136.33^
+||163.197.167.236^
+||164.155.185.254^
+||168zwm.com^
+||16m.cc^
+||16niao20230125.live^
+||172.121.4.251^
+||172.121.4.252^
+||173e.cn^
+||174.139.53.195^
+||17chk.vip^
+||180.76.171.28^
+||188aaa.us^
+||18so.vip^
+||199aaa.us^
+||1cdhf.top^
+||1d1a.com^
+||1dfsdfg.com^
+||1kanz.cn^
+||1l1.cc^
+||1lx.co^
+||1n4o.icu^
+||1papa.top^
+||1porp.top^
+||1qlgi.top^
+||1qm5.top^
+||1v7.cn^$third-party
+||1wkg.cn^
+||201n.com^
+||2022fada1028.xyz^
+||2022shoupidan1024.xyz^
+||210.65.10.32^$third-party
+||211.167.105.131^
+||213.232.113.250^
+||216.172.154.226^
+||21fsdf.com^
+||220.115.251.25^
+||221.204.213.222^
+||222.186.12.235^
+||228tuchuang.com^
+||22fssv.com^
+||23.244.43.212^
+||23.89.50.180^
+||230579.top^
+||23dsf.top^
+||23jgiy.com^
+||23kmm.com^$third-party
+||2526game.com^
+||2529.com^$third-party
+||258zw.com^$third-party
+||26niao20230505.live^
+||27niao20230506.live^
+||27w8f.com^
+||28n7.icu^
+||297892531.com^
+||2982a.com^
+||29wjns.com^
+||2aqr.net^
+||2fa20230511.live^
+||2g2h.com^
+||2hfby.top^
+||2hvl4.fun^
+||2i1m.xyz^
+||2lian.com^$third-party
+||2m2n.com^
+||2medo.top^
+||2mfx.cn^
+||2pmob.com^
+||2pwja.cn^
+||2r45.cn^
+||2r6.cn^
+||2tyne.icu^
+||302y.fun^
+||304p.xyz^
+||32fi.com^
+||331qka.cn^
+||3324.cn^$third-party
+||3336637.com^
+||3336639.com^
+||3336653.com^
+||3336657.com^
+||3336670.com^
+||3336672.com^
+||3336673.com^
+||3336691.com^
+||3337706.com^
+||3337729.com^
+||3337735.com^
+||3337736.com^
+||3337739.com^
+||3337751.com^
+||3337765.com^
+||3337780.com^
+||3337781.com^
+||3337783.com^
+||3337785.com^
+||3338808.com^
+||3338863.com^
+||3338877.com^
+||33sdfg.com^
+||354664.top^
+||36060.xyz^
+||360600.xyz^
+||362728tdg.com^
+||3633a.com^
+||36500.net^$third-party
+||36dfsa.com^
+||36nl.com^
+||375772rug.com^
+||3798.com^$third-party
+||37tek.fun^
+||387635.com^
+||39nw.com^
+||3dcn.me^
+||3ek9.cn^
+||3fa20230512.live^
+||3fddkj.com^
+||3naf.xyz^
+||3p8801.co^
+||3qpw.icu^
+||3v4w.top^
+||3v7c7y.com^
+||3xuo.xyz^
+||3z7qn.cn^
+||401aww.com^
+||44629.com^
+||4480dy.net^
+||44jq.cn^
+||44pv.com^$third-party
+||4567.org^$third-party
+||47zoz.xyz^
+||480image.com^
+||480img.com^
+||4bds.xyz^
+||4cjh.xyz^
+||4excel.cn^
+||4iksy.cn^
+||4iuyw.xyz^
+||4jffu.cn^
+||4jfggh.com^
+||4m5t.cn^
+||4p85.cn^
+||4vml0.cn^
+||50aqzb.com^
+||50bang.org^$third-party
+||50i2n.top^
+||513575528.com^
+||5137395ccc.com^
+||516624.com^
+||51check.com.cn^
+||51fa.shop^
+||51gugu.com^$third-party
+||51xl.xyz^$third-party
+||51xuex.com.cn^
+||51xumei.com^
+||51zgjs.mobi^
+||5251m.xyz^
+||526d.com^$third-party
+||528791725.com^
+||52sq.shop^
+||52tushuo.com^
+||52zfl.com^
+||52zxdai.com^
+||5336767ccc.com^
+||537882736.com^
+||5399.com^$third-party
+||54askjdklm.xyz^
+||54ha.cn^
+||552aaa.us^
+||553aaa.us^
+||55zzz.cn^
+||573569djd.com^
+||5783.org^
+||5851a.com^
+||585227ybn.com^
+||587tuchuang.com^
+||588o.top^
+||58xiangka.com^
+||591huishou.cn^
+||5951835ccc.com^
+||595tuchuang.com^
+||5976tp1.com^
+||5999218ccc.com^
+||5hte21mz.com^
+||5htftu.com^
+||5ilss.top^
+||5kmp7.top^
+||5lna.xyz^
+||5lpt.cn^
+||5pe6.fun^
+||5py1.xyz^
+||5r562.cn^
+||5t15.cn^
+||5takaitu.xyz^
+||5vuk.xyz^
+||5xle.xyz^
+||5xur.top^
+||60.190.139.164^
+||605296.com^
+||609999.xyz^
+||60dhhs.com^
+||613711567.com^
+||6179a.com^
+||628536nyv.com^
+||62kjjhg.com^
+||6318537ccc.com^
+||6399tp.com^
+||65211351892.com^
+||65688qp.com^
+||658bbb.us^
+||65fsgsv.com^
+||65oml.cn^
+||6617398ccc.com^
+||6651tp.com^
+||66668aaa.com^
+||66669aaa.com^
+||668559.com^$third-party
+||6686bb.app^
+||66885aaa.com^
+||6696q.com^
+||66mjbg.com^
+||6789.net^$third-party
+||678tktp.com^
+||682891.com^
+||6868edu.com^
+||6888i.top^
+||688aaa.us^
+||69wx1.top^
+||6avz.com^$script,third-party
+||6cdwf.xyz^
+||6dkl1vb.site^
+||6dvip.com^
+||6fxo.icu^
+||6h1cz.xyz^

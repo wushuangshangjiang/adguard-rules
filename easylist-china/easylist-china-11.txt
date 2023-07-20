@@ -1,60 +1,3 @@
-qzone.qq.com###appCanvasRecentAppActivity > .activity-area
-qzone.qq.com###appCanvasRightBottomTips
-qzone.qq.com###appCanvasRightTopQBoss
-qzone.qq.com###appCanvasTaskMarket
-qzone.qq.com###appCanvasTodayRecom
-qzone.qq.com###appCanvasTopBanner
-sogou.com###appNewsBtn
-sogou.com###appRedPackageAd
-qzone.qq.com###app_ads
-dmzj.com###app_home_ad
-dmzj.com###app_manhua
-hao123.com###append
-qzone.qq.com###appstore_sidebar_l
-qzone.qq.com###appstore_sidebar_r
-jdbbs.com###archy5
-txahz.com###archy_ad2
-wx.sina.com.cn###artibody > .article-video
-blog.csdn.net###article_content > link + a
-p2peye.com###article_content a[ref="nofollow"]
-doyo.cn###article_top_down
-360doc.cn###artnewdiv
-360doc.com###arttopbdad
-baidu.com,bdimg.com###aside-ad
-csdn.net###asideCustom36733263
-csdn.net###asideCustom65392991
-baidu.com###asideLeft
-baidu.com###asideRight
-assbbs.com###ass_adv
-1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###attention-game-wraper_dialog
-vjmedia.com.hk###author-spotlight + .clear + div
-androiddevtools.cn###auto-scroll-ad-box
-likr.tw###avivid_waterfall_wp_product_area
-avgle.com###avyc
-qq.com###ay-bottom-tips > .bd > .pic-box
-qq.com###ay-tips-close + h2
-v2rayssr.com###b2-widget-html-12
-youmelive.com###b2-widget-html-2
-bing.com###b_results > li[style*="padding-bottom: 8px;"][style*="235, 235, 235"]
-hao.360.cn###background.festival
-china.com.cn###baidu
-ifeng.com###baidualading
-52pk.com###baidutop
-52pk.com###baidutop2
-1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###baiduweishiDown
-newsmth.net###ban_ner
-ufanw.com###banne
-18avhub.com,18avtube.com,adultwefong.com,aicoin.cn,aicoin.net.cn,avmimi.com,fsdpp.cn,ip138.com,mangahax.com,mm-cg.com,sports.qq.com,suopao.org,timecn.cn,txzqw.me,youxi.baidu.com###banner
-cwyuni.tw###banner > h2
-iwan.baidu.com###banner-box
-iwan.baidu.com###banner-info
-qidian.com###banner-two
-qidian.com###banner1
-ksbbs.com,kshot.com###banner2_top
-qidian.com###banner3
-99tianji.com###banner_gg
-ksbbs.com,kshot.com###banner_top
-qq.com###barrageBase
 c114.com.cn###barrage_ad
 c114.com.cn###barrage_bg
 mangabz.com###bb1
@@ -1198,3 +1141,60 @@ big5.china.com.cn##.Advertising > a
 le.com##.Banner
 zhihu.com##.Banner-link
 zhihu.com##.Banner-link + .Pc-card-button-close
+china.com.cn##.Banner_left
+china.com.cn##.Banner_right
+58avgo.com##.BillingLeft
+58avgo.com##.BillingRight
+lenovo.com.cn##.BottomBar
+ltn.com.tw##.C3.boxTitle
+18avhub.com,18avtube.com,mm-cg.com##.CN_qmvtoy
+zhihu.com##.Card.Banner
+3464.com##.CommonBody > .CommonListArea:nth-child(3)
+3464.com##.CommonBody > .CommonListArea:nth-child(3) + .CommonListArea
+3dmgame.com##.Content_L > p
+imeee.cn##.DA336
+91lai.com##.D_guanggaotu11
+91lai.com##.D_guanggaotu2
+91lai.com##.D_guanggaotu3
+cnfol.com##.EtGA
+cnfol.com##.FixedLeft
+cnfol.com##.FixedRight
+jinhua.com.cn##.FocusAD
+angelweb.cn##.GG960x90
+aiyuke.com##.GGad
+3dmgame.com##.Gmaeinfobtn + span
+3dmgame.com##.Gmaeinfobtn_tab > [class]:not(.tab)
+3dmgame.com##.Gmaeinfobtn_tab > [class][onclick]
+3dmgame.com##.Gmaeinfobtn_tab > span
+zhihu.com##.GoodsRecommendCard
+downg.com##.Gs_d[href$=".exe"]
+52fzwg.com,79tao.com,hqol.cn,icabbs.com,k7d.com,kxdao.net,mcncc.com,sunwy.org,twunbbs.com,wnflb.com,wnflb2023.com,wnflb66.com,zn503.com##.GzList
+le.com##.H-tg
+diyifanwen.com##.Hzh1
+diyifanwen.com##.Hzh2
+hao.lenovo.com.cn##.IconLink
+chaicp.com##.Icp-Ad
+3dmgame.com##.Indexadd-100
+iyaxin.com##.Information
+baiten.cn##.JS_advertisement
+ixigua.com##.J_ad
+kq7.com##.J_appFromLen
+smzdm.com##.J_index_wall
+dianping.com##.J_midas-3
+dianping.com##.J_mkt-group-1
+dianping.com##.J_mkt-group-2
+dianping.com##.J_mkt-group-3
+duba.com##.J_side_activity
+edu.qq.com##.L
+dasai8.com##.L > font[color="#0000FF"]
+solarbe.com##.LT_banner
+oilchem.net##.LzAdv
+zhihu.com##.MBannerAd
+price.com.hk,uwants.com##.MFV
+zhihu.com##.MHotFeedAd
+zhihu.com##.MRelateFeedAd
+my0511.com##.MY0511-broadcast
+ltn.com.tw##.NC1.boxTitle
+ltn.com.tw##.NC3
+cnfol.com##.NavTopAd
+cnfol.com##.NewAdBox
